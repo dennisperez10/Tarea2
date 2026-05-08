@@ -1,4 +1,4 @@
-﻿ID;Código;Nombre;Área Protegida;Provincia;Cantón;Distrito;Altitud (msnm);Proceso Geomorfólogico Principal;Caracteristica;Clasificación;Valores cientificos;Valores añadidos
+﻿ID;Codigo;Nombre;AreaProtegida;Provincia;Canton;Distrito;Altitud;ProcesoGeomorfologicoPrincipal;Caracteristica;Clasificacion;ValoresCientificos;ValoresAnadidos
 1;PVAvol001;Cráter Principal;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2268;Volcánico;Natural;Alta;0,94;0,94
 2;PVAvol002;Cono Botos;Parque Nacional Volcán Poás;Alajuela;Poás;Sabana Redonda;2708;Volcánico;Natural;Alta;0,88;0,86
 3;PVAvol003;Cono Von Fratzius;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2639;Volcánico;Natural;Alta;0,88;0,85
