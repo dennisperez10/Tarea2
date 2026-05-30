@@ -1,66 +1,67 @@
-﻿ID;Codigo;Nombre;AreaProtegida;Provincia;Canton;Distrito;Altitud;ProcesoGeomorfólogicoPrincipal;Caracteristica;Clasificacion;ValoresCientificos;ValoresAnadidos
-1;PVAvol001;Cráter Principal;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2268;Volcánico;Natural;Alta;0.94;0.94
-2;PVAvol002;Cono Botos;Parque Nacional Volcán Poás;Alajuela;Poás;Sabana Redonda;2708;Volcánico;Natural;Alta;0.88;0.86
-3;PVAvol003;Cono Von Fratzius;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2639;Volcánico;Natural;Alta;0.88;0.85
-4;PVAvol004;Volcán Congo;Parque Nacional Volcán Poás;Alajuela;Río Cuarto;Río Cuarto;2014;Volcánico;Natural;Media;0.5;0.3
-5;PVAvol005;Relicto Calderico;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2564;Volcánico;Natural;Baja;0.19;0.1
-6;IRAvol001;Cráter Principal;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3174;Volcánico;Natural;Alta;0.94;0.92
-7;IRAvol002;Cráter Diego de la Haya;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3275;Volcánico;Natural;Alta;0.88;0.9
-8;IRAvol003;Cráter Playa Hermosa;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3312;Volcánico;Natural;Alta;0.88;0.75
-9;IRAvol004;Domo;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3384;Volcánico;Natural;Baja;0.31;0.2
-10;IRAvol005;Cueva Los Minerales;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;2905;Volcánico;Natural;Alta;0.75;0.5
-11;IRAvol006;Cueva Los Mucolitos;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;2890;Volcánico;Natural;Alta;0.75;0.5
-12;IRAvol007;Cerro Retes;Parque Nacional Volcán Irazú;San José;Vázquez de Coronado;Cascajal;3180;Volcánico;Natural;Baja;0.38;0.4
-13;IRAvol008;Cerro Cabeza de Vaca;Parque Nacional Volcán Irazú;Cartago;Cartago;Llano Grande;3059;Volcánico;Natural;Alta;0.63;0.62
-14;IRAvol009;Laguna Reventado;Parque Nacional Volcán Irazú;Cartago;Cartago;Tierra Blanca;2982;Volcánico;Natural;Media;0.56;0.6
-15;IRAvol010;Cráter Valle Lunar;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3272;Volcánico;Natural;Media;0.5;0.6
-16;IRAvol011;Cerro Sapper;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3432;Volcánico;Natural;Alta;0.81;0.79
-17;CHIgla001;Valle Talari;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3320;Glacial y fluvial;Natural;Media;0.5;0.4
-18;CHIgla002;Valle de los Conejos;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3500;Glacial y fluvial;Natural;Alta;0.69;0.6
-19;CHIgla003;Valle de los Lagos;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3520;Glacial y fluvial;Natural;Alta;0.81;0.79
-20;CHIgla004;Cerro Chirripó;Parque Nacional Chirripó;Limón;Limón;Valle La Estrella;3820;Glacial;Natural;Alta;0.88;0.86
-21;CHIgla005;Valle de las Morrenas;Parque Nacional Chirripó;Limón;Limón;Valle La Estrella;3520;Glacial y fluvial;Natural;Alta;0.81;0.78
-22;CHIgla006;Laguna Ditkevi;Parque Nacional Chirripó;Limón;Talamanca;Telire;3460;Glacial y fluvial;Natural;Alta;0.69;0.52
-23;CHIgla007;Morrena Loma Larga;Parque Nacional Chirripó;Cartago;Turrialba;Chirripó;3400;Glacial;Natural;Alta;0.75;0.6
-24;CHIgla008;Cerro Ventisqueros;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3812;Glacial;Natural;Alta;0.75;0.6
-25;CHIvol009;Los Crestones;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3715;Volcánico;Natural;Alta;0.88;0.9
-26;CHIgla010;Sabana de los Leones;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3200;Glaciofluvial;Natural;Alta;0.75;0.6
-27;CHIgla011;Cerros Cuerici;Parque Nacional Chirripó;Cartago;Paraíso;Orosi;3345;Periglacial;Natural;Alta;0.69;0.5
-28;CHIgla012;Cerro Urán;Parque Nacional Chirripó;Cartago;Turrialba;Chirripó;3600;Glacial;Natural;Media;0.5;0.4
-29;CHIgla013;Cerro Terbi;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3765;Glacial;Natural;Media;0.5;0.4
-30;CHIgla014;Cerro Laguna;Parque Nacional Chirripó;Limón;Limón;Valle La Estrella;3749;Glacial;Natural;Media;0.56;0.4
-31;PIAgla001;Cerro Kamuk;Parque Internacional La Amistad;Limón;Talamanca;Telire;3549;Periglacial;Natural;Alta;0.8;0.5
-32;PIA002;Sabanas Esperanza;Parque Internacional La Amistad;Puntarenas;Buenos Aires;Biolley;1800;;Natural;Baja;0.24;0.1
-33;PIA003;Valle del Silencio;Parque Internacional La Amistad;Puntarenas;Buenos Aires;Biolley;2559;;Natural;Baja;0.35;0.21
-34;PCBflu001;Sitio Arqueológico Piedra Pintada;No Aplica;Puntarenas;Coto Brus;San Vito;910;Fluvial;Natural;Alta;0.75;0.8
-35;PCBflu002;Humedal Laguna El Campo;No Aplica;Puntarenas;Coto Brus;San Vito;1000;Fluvial;Natural;Baja;0.17;0.1
-36;PCBflu003;Humedal de San Vito;No Aplica;Puntarenas;Coto Brus;San Vito;990;Fluvial;Natural;Baja;0.16;0.1
-37;PCBflu004;Humedal Laguna Zoncho;No Aplica;Puntarenas;Coto Brus;San Vito;1190;Fluvial;Natural;Baja;0.15;0.1
-38;PCBflu005;Humedal Laguna Los Gamboa;No Aplica;Puntarenas;Coto Brus;San Vito;1454;Fluvial;Natural;Baja;0.22;0.1
-39;PCBflu006;Humedal Palustrino Laguna El Paraguas;No Aplica;Puntarenas;Coto Brus;San Vito;1400;Fluvial;Natural;Baja;0.19;0.1
-40;PCBflu007;Catarata La Neblina;No Aplica;Puntarenas;Coto Brus;Sabalito;1650;Fluvial;Natural;Media;0.45;0.5
-41;PCBflu008;Toma de agua Acueducto Las Tablas;No Aplica;Puntarenas;Coto Brus;Sabalito;1780;Fluvial;Antrópica;Baja;0.15;0.5
-42;PCBflu009;Catarata Salto del Ángel;No Aplica;Puntarenas;Coto Brus;Sabalito;1950;Fluvial;Natural;Media;0.56;0.4
-43;PCBtec010;Cerro Pelón;No Aplica;Puntarenas;Coto Brus;Sabalito;1450;Tectónico;Natural;Baja;0.24;0.2
-44;PCBvol011;Cerro Quijada del Diablo;No Aplica;Puntarenas;Coto Brus;Sabalito;1850;Volcánico;Natural;Alta;0.71;0.6
-45;PCBflu012;Laguna Cañas Gordas;No Aplica;Puntarenas;Coto Brus;Agua Buena;1154;Fluvial;Natural;Baja;0.11;0.1
-46;PCBflu013;Catarata Metaponto;No Aplica;Puntarenas;Coto Brus;Agua Buena;1030;Fluvial;Natural;Alta;0.72;0.6
-47;PCBflu014;Catarata Las Lajas;No Aplica;Puntarenas;Coto Brus;Agua Buena;1075;Fluvial;Natural;Baja;0.16;0.14
-48;PCBflu015;Catarata Los Vargas;No Aplica;Puntarenas;Coto Brus;Agua Buena;990;Fluvial;Natural;Baja;0.15;0.14
-49;PCBflu016;Laguna Campo Dos y Medio;No Aplica;Puntarenas;Coto Brus;Agua Buena;1036;Fluvial;Natural;Baja;0.13;0.12
-50;PCBflu017;Humedal Laguna Metaponto;No Aplica;Puntarenas;Coto Brus;Agua Buena;1020;Fluvial;Natural;Baja;0.14;0.1
-51;PCBkar018;Caverna Barranquilla;No Aplica;Puntarenas;Coto Brus;Agua Buena;900;Kárstico;Natural;Alta;0.79;0.8
-52;PCBFLU019;Localidad Fosilífera de San Gerardo;No Aplica;Puntarenas;Coto Brus;Limoncito;700;Fluvial;Natural;Media;0.6;0.6
-53;PCBvol020;Cerro Pittier;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;2844;Volcánico;Natural;Alta;0.82;0.9
-54;PCBvol021;Cerro Gémelo;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;2702;Volcánico;Natural;Alta;0.79;0.8
-55;PCBflu022;Catarata Cerro Pittier;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;1680;Fluvial;Natural;Alta;0.78;0.75
-56;PCBflu023;Catarata La Perla;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;1300;Fluvial;Natural;Media;0.61;0.5
-57;PCBflu024;Catarata La Esmeralda;No Aplica;Puntarenas;Coto Brus;Pittier;620;Fluvial;Natural;Media;0.43;0.4
-58;PCBflu025;Catarata Kamakiri;No Aplica;Puntarenas;Coto Brus;Pittier;820;Fluvial;Natural;Media;0.44;0.45
-59;PCBflu026;Aguas Termales de Aguas Calientes;No Aplica;Puntarenas;Coto Brus;Pittier;940;Fluvial;Natural;Baja;0.19;0.1
-60;PCBflu027;Catarata Farallón Santa Fe;No Aplica;Puntarenas;Coto Brus;Pittier;750;Fluvial;Natural;Baja;0.18;0.1
-61;PCBflu028;Catarata Farallón Santa Fe #2;No Aplica;Puntarenas;Coto Brus;Pittier;730;Fluvial;Natural;Baja;0.12;0.1
-62;PCBflu029;Catarata La Chobá;No Aplica;Puntarenas;Coto Brus;Pittier;750;Fluvial;Natural;Baja;0.11;0.1
-63;PCBflu030;Catarata El Pedregal;No Aplica;Puntarenas;Coto Brus;Gutiérrez Braun;750;Fluvial;Natural;Baja;0.16;0.15
-64;PSRtec001;Península de Santa Elena;Parque Nacional Santa Rosa;Guanacaste;La Cruz;Santa Elena;;Tectónico;Natural;Alta;0.85;0.9
-65;CHIvol015;Cerro Páramo;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3699;Volcánico;Natural;Alta;0.84;0.82
+﻿ID;Codigo;Nombre;AreaProtegida;Provincia;Canton;Distrito;Altitud;ProcesoGeomorfólogicoPrincipal;Caracteristica;Clasificacion;ValoresCientificos;ValoresAnadidos;Latitud;Longitud
+1;PVAvol001;Cráter Principal;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2268;Volcánico;Natural;Alta;0.94;0.94;10.1958333333333;-84.2419444444444
+2;PVAvol002;Cono Botos;Parque Nacional Volcán Poás;Alajuela;Poás;Sabana Redonda;2708;Volcánico;Natural;Alta;0.88;0.86;10.1866666666667;-84.2266666666667
+3;PVAvol003;Cono Von Fratzius;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2639;Volcánico;Natural;Alta;0.88;0.85;10.2133333333333;-84.2302777777778
+4;PVAvol004;Volcán Congo;Parque Nacional Volcán Poás;Alajuela;Río Cuarto;Río Cuarto;2014;Volcánico;Natural;Media;0.5;0.3;10.2616666666667;-84.2275
+5;PVAvol005;Relicto Calderico;Parque Nacional Volcán Poás;Alajuela;Sarchí;Toro Amarillo;2564;Volcánico;Natural;Baja;0.19;0.1;10.1872222222222;-84.2388888888889
+6;IRAvol001;Cráter Principal;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3174;Volcánico;Natural;Alta;0.94;0.92;9.9825;-83.8497222222222
+7;IRAvol002;Cráter Diego de la Haya;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3275;Volcánico;Natural;Alta;0.88;0.9;9.98138888888889;-83.8458333333333
+8;IRAvol003;Cráter Playa Hermosa;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3312;Volcánico;Natural;Alta;0.88;0.75;9.97777777777778;-83.8491666666667
+9;IRAvol004;Domo;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3384;Volcánico;Natural;Baja;0.31;0.2;9.97944444444444;-83.8427777777778
+10;IRAvol005;Cueva Los Minerales;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;2905;Volcánico;Natural;Alta;0.75;0.5;9.98666666666667;-83.8541666666667
+11;IRAvol006;Cueva Los Mucolitos;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;2890;Volcánico;Natural;Alta;0.75;0.5;9.98722222222222;-83.8544444444444
+12;IRAvol007;Cerro Retes;Parque Nacional Volcán Irazú;San José;Vázquez de Coronado;Cascajal;3180;Volcánico;Natural;Baja;0.38;0.4;9.97166666666667;-83.8716666666667
+13;IRAvol008;Cerro Cabeza de Vaca;Parque Nacional Volcán Irazú;Cartago;Cartago;Llano Grande;3059;Volcánico;Natural;Alta;0.63;0.62;9.96944444444444;-83.8872222222222
+14;IRAvol009;Laguna Reventado;Parque Nacional Volcán Irazú;Cartago;Cartago;Tierra Blanca;2982;Volcánico;Natural;Media;0.56;0.6;9.96777777777778;-83.8694444444444
+15;IRAvol010;Cráter Valle Lunar;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3272;Volcánico;Natural;Media;0.5;0.6;9.98111111111111;-83.8372222222222
+16;IRAvol011;Cerro Sapper;Parque Nacional Volcán Irazú;Cartago;Oreamuno;Santa Rosa;3432;Volcánico;Natural;Alta;0.81;0.79;9.97666666666667;-83.8533333333333
+17;CHIgla001;Valle Talari;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3320;Glacial y fluvial;Natural;Media;0.5;0.4;9.45555555555556;-83.5047222222222
+18;CHIgla002;Valle de los Conejos;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3500;Glacial y fluvial;Natural;Alta;0.69;0.6;9.46555555555556;-83.4941666666667
+19;CHIgla003;Valle de los Lagos;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3520;Glacial y fluvial;Natural;Alta;0.81;0.79;9.48138888888889;-83.4938888888889
+20;CHIgla004;Cerro Chirripó;Parque Nacional Chirripó;Limón;Limón;Valle La Estrella;3820;Glacial;Natural;Alta;0.88;0.86;9.48444444444444;-83.4886111111111
+21;CHIgla005;Valle de las Morrenas;Parque Nacional Chirripó;Limón;Limón;Valle La Estrella;3520;Glacial y fluvial;Natural;Alta;0.81;0.78;9.49111111111111;-83.4872222222222
+22;CHIgla006;Laguna Ditkevi;Parque Nacional Chirripó;Limón;Talamanca;Telire;3460;Glacial y fluvial;Natural;Alta;0.69;0.52;9.47;-83.48
+23;CHIgla007;Morrena Loma Larga;Parque Nacional Chirripó;Cartago;Turrialba;Chirripó;3400;Glacial;Natural;Alta;0.75;0.6;9.50833333333333;-83.4963888888889
+24;CHIgla008;Cerro Ventisqueros;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3812;Glacial;Natural;Alta;0.75;0.6;9.47583333333333;-83.5102777777778
+25;CHIvol009;Los Crestones;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3715;Volcánico;Natural;Alta;0.88;0.9;9.45138888888889;-83.4983333333333
+26;CHIgla010;Sabana de los Leones;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3200;Glaciofluvial;Natural;Alta;0.75;0.6;9.42055555555556;-83.5091666666667
+27;CHIgla011;Cerros Cuerici;Parque Nacional Chirripó;Cartago;Paraíso;Orosi;3345;Periglacial;Natural;Alta;0.69;0.5;9.58111111111111;-83.6352777777778
+28;CHIgla012;Cerro Urán;Parque Nacional Chirripó;Cartago;Turrialba;Chirripó;3600;Glacial;Natural;Media;0.5;0.4;9.51;-83.5347222222222
+29;CHIgla013;Cerro Terbi;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3765;Glacial;Natural;Media;0.5;0.4;9.45527777777778;-83.4947222222222
+30;CHIgla014;Cerro Laguna;Parque Nacional Chirripó;Limón;Limón;Valle La Estrella;3749;Glacial;Natural;Media;0.56;0.4;9.50277777777778;-83.4816666666667
+31;PIAgla001;Cerro Kamuk;Parque Internacional La Amistad;Limón;Talamanca;Telire;3549;Periglacial;Natural;Alta;0.8;0.5;;
+32;PIA002;Sabanas Esperanza;Parque Internacional La Amistad;Puntarenas;Buenos Aires;Biolley;1800;;Natural;Baja;0.24;0.1;9,27067;-83,03241
+33;PIA003;Valle del Silencio;Parque Internacional La Amistad;Puntarenas;Buenos Aires;Biolley;2559;;Natural;Baja;0.35;0.21;9,08083333;-83,02777778
+34;PCBflu001;Sitio Arqueológico Piedra Pintada;No Aplica;Puntarenas;Coto Brus;San Vito;910;Fluvial;Natural;Alta;0.75;0.8;9,068333333;-82,98055556
+35;PCBflu002;Humedal Laguna El Campo;No Aplica;Puntarenas;Coto Brus;San Vito;1000;Fluvial;Natural;Baja;0.17;0.1;8,862777778;-82,96583333
+36;PCBflu003;Humedal de San Vito;No Aplica;Puntarenas;Coto Brus;San Vito;990;Fluvial;Natural;Baja;0.16;0.1;8,829166667;-82,95833333
+37;PCBflu004;Humedal Laguna Zoncho;No Aplica;Puntarenas;Coto Brus;San Vito;1190;Fluvial;Natural;Baja;0.15;0.1;8,826708333;-82,95083611
+38;PCBflu005;Humedal Laguna Los Gamboa;No Aplica;Puntarenas;Coto Brus;San Vito;1454;Fluvial;Natural;Baja;0.22;0.1;8,813;-82,963
+39;PCBflu006;Humedal Palustrino Laguna El Paraguas;No Aplica;Puntarenas;Coto Brus;San Vito;1400;Fluvial;Natural;Baja;0.19;0.1;8,788611111;-82,98472222
+40;PCBflu007;Catarata La Neblina;No Aplica;Puntarenas;Coto Brus;Sabalito;1650;Fluvial;Natural;Media;0.45;0.5;8,782222222;-82,98111111
+41;PCBflu008;Toma de agua Acueducto Las Tablas;No Aplica;Puntarenas;Coto Brus;Sabalito;1780;Fluvial;Antrópica;Baja;0.15;0.5;8,908888889;-82,76055556
+42;PCBflu009;Catarata Salto del Ángel;No Aplica;Puntarenas;Coto Brus;Sabalito;1950;Fluvial;Natural;Media;0.56;0.4;8,942861111;-82,74583333
+43;PCBtec010;Cerro Pelón;No Aplica;Puntarenas;Coto Brus;Sabalito;1450;Tectónico;Natural;Baja;0.24;0.2;8,929722222;-82,74861111
+44;PCBvol011;Cerro Quijada del Diablo;No Aplica;Puntarenas;Coto Brus;Sabalito;1850;Volcánico;Natural;Alta;0.71;0.6;8,917222222;-82,78694444
+45;PCBflu012;Laguna Cañas Gordas;No Aplica;Puntarenas;Coto Brus;Agua Buena;1154;Fluvial;Natural;Baja;0.11;0.1;8,90654;-82,74914
+46;PCBflu013;Catarata Metaponto;No Aplica;Puntarenas;Coto Brus;Agua Buena;1030;Fluvial;Natural;Alta;0.72;0.6;8,748888889;-82,91944444
+47;PCBflu014;Catarata Las Lajas;No Aplica;Puntarenas;Coto Brus;Agua Buena;1075;Fluvial;Natural;Baja;0.16;0.14;8,716833333;-82,95352778
+48;PCBflu015;Catarata Los Vargas;No Aplica;Puntarenas;Coto Brus;Agua Buena;990;Fluvial;Natural;Baja;0.15;0.14;8,716388889;-82,93638889
+49;PCBflu016;Laguna Campo Dos y Medio;No Aplica;Puntarenas;Coto Brus;Agua Buena;1036;Fluvial;Natural;Baja;0.13;0.12;8,709722222;-82,93083333
+50;PCBflu017;Humedal Laguna Metaponto;No Aplica;Puntarenas;Coto Brus;Agua Buena;1020;Fluvial;Natural;Baja;0.14;0.1;8,705555556;-82,93333333
+51;PCBkar018;Caverna Barranquilla;No Aplica;Puntarenas;Coto Brus;Agua Buena;900;Kárstico;Natural;Alta;0.79;0.8;8,706111111;-82,93388889
+52;PCBFLU019;Localidad Fosilífera de San Gerardo;No Aplica;Puntarenas;Coto Brus;Limoncito;700;Fluvial;Natural;Media;0.6;0.6;8,700277778;-82,95944444
+53;PCBvol020;Cerro Pittier;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;2844;Volcánico;Natural;Alta;0.82;0.9;8,855444444;-83,08108333
+54;PCBvol021;Cerro Gémelo;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;2702;Volcánico;Natural;Alta;0.79;0.8;9,060833333;-82,94111111
+55;PCBflu022;Catarata Cerro Pittier;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;1680;Fluvial;Natural;Alta;0.78;0.75;9,045555556;-82,93527778
+56;PCBflu023;Catarata La Perla;Parque Internacional La Amistad;Puntarenas;Coto Brus;Pittier;1300;Fluvial;Natural;Media;0.61;0.5;9,026944444;-82,95388889
+57;PCBflu024;Catarata La Esmeralda;No Aplica;Puntarenas;Coto Brus;Pittier;620;Fluvial;Natural;Media;0.43;0.4;9,024444444;-82,97555556
+58;PCBflu025;Catarata Kamakiri;No Aplica;Puntarenas;Coto Brus;Pittier;820;Fluvial;Natural;Media;0.44;0.45;8,965;-83,0025
+59;PCBflu026;Aguas Termales de Aguas Calientes;No Aplica;Puntarenas;Coto Brus;Pittier;940;Fluvial;Natural;Baja;0.19;0.1;8,884166667;-82,99583333
+60;PCBflu027;Catarata Farallón Santa Fe;No Aplica;Puntarenas;Coto Brus;Pittier;750;Fluvial;Natural;Baja;0.18;0.1;8,946944444;-82,92055556
+61;PCBflu028;Catarata Farallón Santa Fe #2;No Aplica;Puntarenas;Coto Brus;Pittier;730;Fluvial;Natural;Baja;0.12;0.1;8,935555556;-83,0075
+62;PCBflu029;Catarata La Chobá;No Aplica;Puntarenas;Coto Brus;Pittier;750;Fluvial;Natural;Baja;0.11;0.1;8,942777778;-83,00722222
+63;PCBflu030;Catarata El Pedregal;No Aplica;Puntarenas;Coto Brus;Gutiérrez Braun;750;Fluvial;Natural;Baja;0.16;0.15;8,9;-82,98333333
+64;PSRtec001;Península de Santa Elena;Parque Nacional Santa Rosa;Guanacaste;La Cruz;Santa Elena;;Tectónico;Natural;Alta;0.85;0.9;8,888055556;-82,98277778
+65;CHIvol015;Cerro Páramo;Parque Nacional Chirripó;San José;Pérez Zeledón;Rivas;3699;Volcánico;Natural;Alta;0.84;0.82;10,87034726;-85,72818046
+;;;;;;;;;;;;;9,463556;-83,510306
